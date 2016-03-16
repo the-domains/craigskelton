@@ -2,12 +2,13 @@ name: CraigSkelton
 favicon: null
 layout_spectrum: 0.9276158113498241
 typography_spectrum: 0.047762746224179864
+title: 'Things I like. Craig Skelton that is. '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-2592988-2
   facebook: null
   twitter: null
 opengraph:
